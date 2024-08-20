@@ -12,9 +12,11 @@ This project is based on the MEAN stack.
 JSON is used to exchange data between the frontend and backend of the application. JSON provides a data format that both sides can work with efficiently.
 <br/>Reusable UI components offer many benefits such as cleaner code, easier maintenance, and consistency throughout the code.
 <br/>
-<br/># Testing:
+<br/>
+# Testing:
 I found that the easiest way to test and pinpoint errors was to log errors directly to the console log and look at the errors within the Inspect page of Google Chrome. Postman and MongoDBCompass were both helpful for testing as well to ensure things were posted, updated, and deleted correctly using API calls.
 <br/>
-<br/># Reflection:
+<br/>
+# Reflection:
 This course allowed me to enhance my skills with fullstack development and taught me how to properly use the MEAN stack.
 
