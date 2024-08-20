@@ -1,6 +1,7 @@
 # CS465
 Full Stack Development
-<br/># Architecture:
+<br/>
+# Architecture:
 This project is based on the MEAN stack.
 <br/>M - MongoDB databade is used to store user data, travel information, and admin data.
 <br/>E - Express.js framework is used to handle routing and to integrate data from MongoDB.
@@ -8,7 +9,8 @@ This project is based on the MEAN stack.
 <br/>N - Node.js is used to execute server-side code.
 <br/>The Single Page Application (SPA) does not require page reloads compared to the webpages created using Express. This can be both an advantage and a disadvantage depending on the size of the Single Page Application because it requires everything to load up front which can lead to extensive load times if the file is large.
 <br/>
-<br/># Functionality:
+<br/>
+# Functionality:
 JSON is used to exchange data between the frontend and backend of the application. JSON provides a data format that both sides can work with efficiently.
 <br/>Reusable UI components offer many benefits such as cleaner code, easier maintenance, and consistency throughout the code.
 <br/>
